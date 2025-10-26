@@ -13,4 +13,4 @@ Cómo abrir el sitio web
     - El sitio se mostrará localmente en tu navegador.
 
 Repositorio
-https://github.com/SalvadorSL/Exercise_Unit5_website.git
+https://salvadorsl.github.io/Exercise_Unit5_website/
