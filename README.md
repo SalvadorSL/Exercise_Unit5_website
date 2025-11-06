@@ -12,5 +12,6 @@ Cómo abrir el sitio web
     - Haz doble clic en el archivo index.html o ábrelo con tu     navegador preferido (Chrome, Firefox, Edge, etc.).
     - El sitio se mostrará localmente en tu navegador.
 
-Repositorio
+
+2.7 7. Repositorio
 https://salvadorsl.github.io/Exercise_Unit5_website/
